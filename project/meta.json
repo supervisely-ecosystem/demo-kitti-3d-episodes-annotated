@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "title": "Car",
+            "shape": "cuboid_3d",
+            "color": "#FF1834",
+            "geometry_config": {},
+            "id": 548084,
+            "hotkey": ""
+        },
+        {
+            "title": "Pole",
+            "shape": "any",
+            "color": "#F8E71C",
+            "geometry_config": {},
+            "id": 548091,
+            "hotkey": ""
+        },
+        {
+            "title": "Tram",
+            "shape": "cuboid_3d",
+            "color": "#EA7BA6",
+            "geometry_config": {},
+            "id": 548092,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "point_cloud_episodes"
+}
