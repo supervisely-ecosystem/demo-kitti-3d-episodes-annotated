@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-<img src="" width="100"/> 
+<img src="https://user-images.githubusercontent.com/48913536/191323002-cd066338-c245-40f1-a8ac-625654fa095e.png" width="100"/> 
 
 # Demo KITTI pointcloud episodes annotated  
 
@@ -26,11 +26,11 @@ Demo project with pointcloud episodes from KITTI dataset
 `demo_kitti_pointcloud_episodes_annotated` is an example project with 2 pointcloud episodes. 
 Pointcloud episodes for this project were acquired from [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset.
 
-<img src="https://user-images.githubusercontent.com/48913536/171741182-a9790494-b589-42f2-b131-7f409462d931.png" style="width:150%;"/>
+<img src="https://user-images.githubusercontent.com/48913536/191321680-98587094-320d-4088-bad2-bd7b85b7fb4e.png" style="width:150%;"/>
 
 ## Download
 
-Direct download: [zip archive]() (409 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-kitti-3d-episodes-annotated/releases/download/v0.0.1/demo_kitti_pointcloud_episodes_annotated.zip) (207 MB).
 
 ## Statistics
 
