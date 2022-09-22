@@ -23,8 +23,7 @@ Demo project with pointcloud episodes from KITTI dataset
 
 ## Overview 
 
-`demo_kitti_pointcloud_episodes_annotated` is an example project with 2 pointcloud episodes. 
-Pointcloud episodes for this project were acquired from [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset.
+`demo_kitti_pointcloud_episodes_annotated` is an example project with 1 pointcloud episode which was acquired from [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset.
 
 <img src="https://user-images.githubusercontent.com/48913536/191321680-98587094-320d-4088-bad2-bd7b85b7fb4e.png" style="width:150%;"/>
 
@@ -34,4 +33,4 @@ Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-kit
 
 ## Statistics
 
-Project contains 1 dataset, with pointcloud episode in it.
+Project contains 1 dataset with pointcloud episode.
