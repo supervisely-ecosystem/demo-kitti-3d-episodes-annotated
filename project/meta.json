@@ -9,14 +9,6 @@
             "hotkey": ""
         },
         {
-            "title": "Pole",
-            "shape": "any",
-            "color": "#F8E71C",
-            "geometry_config": {},
-            "id": 548091,
-            "hotkey": ""
-        },
-        {
             "title": "Tram",
             "shape": "cuboid_3d",
             "color": "#EA7BA6",
