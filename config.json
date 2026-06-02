@@ -1,6 +1,6 @@
 {
-  "name": "Demo KITTI pointcloud episodes annotated",
-  "description": "Demo project with pointcloud episodes from KITTI dataset with labels",
+  "name": "Demo KITTI point cloud episodes annotated",
+  "description": "Demo project with point cloud episodes from KITTI dataset with labels",
   "type": "project",
   "categories": [
     "import",
