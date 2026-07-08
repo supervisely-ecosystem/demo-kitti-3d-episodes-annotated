@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/48913536/191323002-cd066338-c245-40f1-a8ac-625654fa095e.png" width="100"/> 
 
-# Demo KITTI point cloud episodes annotated  
+# Demo KITTI Point Cloud Episodes Annotated  
 
 <p align="center">
   <a href="#overview">Overview</a> •
