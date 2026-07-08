@@ -1,10 +1,11 @@
 {
-  "name": "Demo KITTI point cloud episodes annotated",
+  "name": "Demo KITTI Point Cloud Episodes Annotated",
   "description": "Demo project with point cloud episodes from KITTI dataset with labels",
   "type": "project",
   "categories": [
     "import",
     "pointclouds",
+    "episodes",
     "project"
   ],
   "icon": "https://user-images.githubusercontent.com/48913536/191322991-c7bce2f7-7832-4700-b9c4-eb259fbe3c73.png",
